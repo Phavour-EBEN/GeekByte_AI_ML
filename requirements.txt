@@ -1,0 +1,6 @@
+fastapi["standard"]
+pydantic
+unicorn
+numpy
+joblib
+scikit-learn
