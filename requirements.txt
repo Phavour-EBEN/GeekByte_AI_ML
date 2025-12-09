@@ -3,4 +3,4 @@ unicorn
 numpy
 joblib
 scikit-learn
-"fastapi[standard]"
+fastapi[standard]
